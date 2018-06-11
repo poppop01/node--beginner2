@@ -1,0 +1,20 @@
+{
+  "name": "pop",
+  "version": "1.0.0",
+  "description": "pop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poppop01/node--beginner2.git"
+  },
+  "author": "poppeepo2@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poppop01/node--beginner2/issues"
+  },
+  "homepage": "https://github.com/poppop01/node--beginner2#readme"
+}
